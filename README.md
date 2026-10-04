@@ -14,6 +14,5 @@ Plain HTML and CSS (no build step), hosted on GitHub Pages.
 
 ## Author
 Ayman Sajjad Akash — PhD researcher in Industrial & Manufacturing Engineering, North Dakota State University.
-- Email: aymansajjadakash@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ayman-sajjad-akash
 - GitHub: https://github.com/Ayman344
